@@ -32,8 +32,8 @@ THEN I am able to successfully create, update, and delete data in my database
 
 # Link to README video 
 🎥 Tutorial video for Categories can be found [here](https://drive.google.com/file/d/1SFu1ltjkcJqkN6krJ0RWLciHk-zBy-bK/view) 
-🎥 FTutorial video for Products can be found [here](https://drive.google.com/file/d/1UsXFTm43gHwNcd1JD8na6fRooTj3LMcu/view) 
-🎥 FTutorial video for Tags can be found [here](https://drive.google.com/file/d/1rMX5sDaVpQ0FjFp4upN1yLXk8a5_LdBA/view) 
+🎥 Tutorial video for Products can be found [here](https://drive.google.com/file/d/1UsXFTm43gHwNcd1JD8na6fRooTj3LMcu/view) 
+🎥 Tutorial video for Tags can be found [here](https://drive.google.com/file/d/1rMX5sDaVpQ0FjFp4upN1yLXk8a5_LdBA/view) 
 
 ## Contribution
 Made with ❤️ by Maame
